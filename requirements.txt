@@ -1,8 +1,12 @@
-dash
-dash_core_components
-dash_html_components
-pandas
-plotly
-keras
-sklearn
-numpy
+dash==1.17.0
+dash-core-components==1.13.0
+dash-html-components==1.1.1
+dash-renderer==1.8.3
+dash-table==4.11.
+Keras @ file:///tmp/build/80754af9/keras_split_1593112142734/work
+numpy==1.18.5
+pandas @ file:///tmp/build/80754af9/pandas_1592841659173/work
+plotly==4.13.0
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502866053/work
+
+
