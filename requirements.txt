@@ -3,10 +3,10 @@ dash-core-components==1.13.0
 dash-html-components==1.1.1
 dash-renderer==1.8.3
 dash-table==4.11.
-Keras @ file:///tmp/build/80754af9/keras_split_1593112142734/work
+Keras==2.3.0
 numpy==1.18.5
-pandas @ file:///tmp/build/80754af9/pandas_1592841659173/work
+pandas==1.1.4
 plotly==4.13.0
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1592502866053/work
+scikit-learn==0.23.2
 
 
